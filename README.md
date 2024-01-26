@@ -1,22 +1,50 @@
-## Olá! Eu sou o Wesley Moraes 🖐️
+<span style="color: #39FF14; font-size: 24px; font-weight: bold;">Olá! Eu sou o Wesley Moraes 🖐️<span>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+<p> 🚀 Eu sou um apaixonado desenvolvedor <strong style="color: #39FF14">Full Stack</strong>  com uma paixão inabalável por transformar ideias em realidade digital. Minha jornada na tecnologia é marcada por uma abordagem <strong style="color: #39FF14">proativa</strong> , uma sede constante de <strong style="color: #39FF14">aprendizado</strong>  e uma habilidade inata para <strong style="color: #39FF14">comunicação</strong> eficaz.
 
-## Tecnologias que eu uso no meu dia
+💻 Minha experiência abrange tanto o <strong style="color: #39FF14">front-end</strong>  quanto o <strong style="color: #39FF14">back-end</strong> , proporcionando-me uma visão abrangente de projetos. Sou um estudante incansável, dedicado a me aprimorar constantemente, mantendo-me atualizado com as últimas tendências e melhores práticas no mundo do desenvolvimento.
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+🤝 <strong style="color: #39FF14">Comunicativo</strong>  e colaborativo por natureza, acredito que a verdadeira magia acontece quando equipes se unem. Trabalhar de forma coesa é a chave para o sucesso, e estou sempre pronto para contribuir com meu entusiasmo e habilidades para atingir objetivos comuns.
+</p>
 
-Apaixonado por tecnologia.
+##
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+![Wesley Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=owesleymoraes&show_icons=true&theme=merko&count_private=true)
+
+##
+
+<span style="color: #39FF14; font-size: 24px; font-weight: bold;">Experiência FrontEnd </span>
+<div style="display: inline_block "><br>
+   <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img style="margin-top: 16px" align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+##
+
+<span style="color: #39FF14; font-size: 24px; font-weight: bold;">
+Experiência BanckEnd  </span>
+<div style="display: inline_block "><br>
+   
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img  style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  style="margin-top: 16px" align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
+</div>
+
+
+
+
