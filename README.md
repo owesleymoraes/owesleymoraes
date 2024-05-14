@@ -9,7 +9,7 @@
 
 ##
 
-![Wesley Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=owesleymoraes&show_icons=true&theme=merko&count_private=false)
+![Wesley Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=owesleymoraes&show_icons=true&theme=merko&count_private=true)
 
 ##
 
